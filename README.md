@@ -3,7 +3,7 @@
 
 ![Final App](https://derekwebdev.com/gifs/weather.gif)
 
-Geolocation Based Weather Celsius and Fahrenheit
+Geolocation Based Weather in Celsius and Fahrenheit
 
 This project uses the following technologies:
 
@@ -12,11 +12,8 @@ This project uses the following technologies:
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) for the linear gradient
 
 ## Configuration
-
-## Configuration
--[Clone](https://github.com/derekwebdevcom/hotelbooking.git) or
--[Download Zip](https://github.com/derekwebdevcom/hotelbooking/archive/master.zip)
-
+-[Clone](https://github.com/derekwebdevcom/weather.git) for Mac or
+-[Download Zip](https://github.com/derekwebdevcom/weather/archive/master.zip) on Windows
 
 ## Quick Start
 -[After Extraction](https://www.rarlab.com/)
